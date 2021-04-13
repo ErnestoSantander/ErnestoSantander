@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on static Js pages.
 - 🌱 I’m currently learning React JS and vim
-- 👯 I’m looking to collaborate on web applications
+- 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with custom API response for stream platforms
 - 💬 Ask me about tech trends, new gadgets, obs features, streamelements features. I'm working on that
 - 📫 How to reach me: on twitter as [@NestoTheGUy](https://twitter.com/NestoTheguy) or by mail as `ernesto.santanderlpz@gmail.com`
 - 😄 Pronouns: Creative, Free-Soul, Self-learner
-- ⚡ Fun fact: I recently became full time dev (like a year ago)
+- ⚡ Fun fact: I recently became full time dev (like a year ago) and start streaming in Facebook Gaming 6 months ago (DM me for more info)
 
