@@ -1,4 +1,10 @@
-### Hi there 👋
+<html>
+  <h1> Hi there 👋 </h1>
+  <div>
+    <p>
+      it's me Ernesto Santander. Web developer for fun making a living at testing.
+    </p>
+  </>div>
 
 **ErnestoSantander/ErnestoSantander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,6 +16,4 @@
 - 📫 How to reach me: on twitter as [@NestoTheGUy](https://twitter.com/NestoTheguy) or by mail as `ernesto.santanderlpz@gmail.com`
 - 😄 Pronouns: Creative, Free-Soul, Self-learner
 - ⚡ Fun fact: I recently became full time dev (like a year ago) and start streaming in Facebook Gaming 6 months ago (DM me for more info)
-<html>
-  <h1> Hey ist me Ernesto!</h1>
   </html>
