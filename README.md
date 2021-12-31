@@ -1,19 +1,26 @@
+<!DOCTYPE html>
 <html>
+  <body>
   <h1> Hi there 👋 </h1>
   <div>
     <p>
       it's me Ernesto Santander. Web developer for fun making a living at testing.
+      This hub is for me and my [ersonal projects i develop, do not hesitate on contact me.
     </p>
-  </>div>
-
-**ErnestoSantander/ErnestoSantander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on static Js pages.
-- 🌱 I’m currently learning React JS and vim
-- 👯 I’m looking to collaborate on python projects
-- 🤔 I’m looking for help with custom API response for stream platforms
-- 💬 Ask me about tech trends, new gadgets, obs features, streamelements features. I'm working on that
-- 📫 How to reach me: on twitter as [@NestoTheGUy](https://twitter.com/NestoTheguy) or by mail as `ernesto.santanderlpz@gmail.com`
-- 😄 Pronouns: Creative, Free-Soul, Self-learner
-- ⚡ Fun fact: I recently became full time dev (like a year ago) and start streaming in Facebook Gaming 6 months ago (DM me for more info)
-  </html>
+    <h2> What am i into right now? </h2>
+    <ul>
+      <li>UI automation testing frameworks</li>
+      <li>Web page debveoping</li>
+    </ul>
+    <h2>What am i looking to contribute or develop?</h2>
+    <ul>
+      <li>Dev Ops</li>
+      <li>Web applivcation development</li>
+      <li>Firmware</li>
+    </ul>
+    <h2>How can you reach me?</h2>
+    <ul>
+      <li>DM me on twitter <a href="https://mobile.twitter.com/NestoTheguy">here</a></li>
+  </div>
+  </body>
+</html>
