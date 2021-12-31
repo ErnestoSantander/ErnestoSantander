@@ -15,7 +15,7 @@
     <h2>What am i looking to contribute or develop?</h2>
     <ul>
       <li>Dev Ops</li>
-      <li>Web applivcation development</li>
+      <li>Web application development</li>
       <li>Firmware</li>
     </ul>
     <h2>How can you reach me?</h2>
