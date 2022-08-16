@@ -10,12 +10,13 @@
     <h2> What am i into right now? </h2>
     <ul>
       <li>UI automation testing frameworks</li>
-      <li>Web page debveoping</li>
+      <li>Web page developing</li>
     </ul>
     <h2>What am i looking to contribute or develop?</h2>
     <ul>
       <li>Dev Ops</li>
       <li>Web application development</li>
+      <li>Mobile testing</li>
       <li>Firmware</li>
     </ul>
     <h2>How can you reach me?</h2>
